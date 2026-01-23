@@ -130,6 +130,14 @@ nav ul li a.active {
     background-color: #4a6cf7;
     color: white;
 }
+.logo img,
+.image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
 
 .image {
     flex: 1;
